@@ -1,10 +1,14 @@
-# Welcome
+# Hammed Babatunde Buari
 
-I believe thoughtful evaluation and thoughtful engineering begin with the same discipline: understanding systems, questioning assumptions, documenting evidence and improving continuously.
+> *Thoughtful evaluation and thoughtful engineering begin with the same discipline: understanding systems, questioning assumptions, documenting evidence and improving continuously.*
+
+Welcome.
 
 That belief shapes how I approach every project, every evaluation and every opportunity to learn.
 
-Welcome to my GitHub.
+This profile serves as a brief introduction to who I am and how I think.
+
+For the complete record of my work, documentation and ongoing professional development, I invite you to visit my Digital Home.
 
 ---
 
